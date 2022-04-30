@@ -1,5 +1,4 @@
-//Dafna Porat 318797685
-//Anastasiya Ternovski 324561802
+
 package boxStacking;
 
 public class Box {
